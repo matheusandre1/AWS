@@ -1,0 +1,44 @@
+Escalabilidade : Aumentar e diminuir o numero de instâncias
+
+
+Elasticidade : Aumentar/Diminuir os recursos.
+Região  
+Instância: um recurso de servidor fornecido por serviços de nuvem de terceiros. 
+
+Modelos de recursos:
+Modelos
+IaaS: infraestrutura como serviço.  ex: EC2.
+PaaS: Plataforma como serviço
+SaaS: Software como serviço.
+Serverless:
+
+palavras-chaves: save money,stop guessing, variable expenses, economies of scale,increase speed and agility,Go Global.
+
+
+Computação Em Nuvem: É a entrga sob demanda de recursos computacionais, através de uma plataforma de serviços via Internet, sem o gerenciamento ativo do usuário.
+
+
+Região é a disponibilização de uma coleção de recursos aws em uma localização geográfica, sendo ele composto por um conjunto de zonas de disponibilidade.
+
+Zona de disponibilidade é um conjunto de datacenters que estão na mesma região, porém separados por um distância significativa, atuando de forma independente em caso de falha de uma zona.
+
+Ponto de presença é uma infraestrutura de servidores localizado próximo de uma ZD, que armazena os dados solicitados no cache, para entregar menor latência uma requisição de consulta.
+
+#Cada Região possui uma ou mais zona de disponibilidade.
+
+#Zona de disponibilidade  estão distintos a quilometros de distância uma das  outras,  conectadas com alta velocidade com segurança local, refrigeração  e podem ser um ou mais data centers.
+
+#Pops serve como cache de dados com menor latência.
+
+
+#Serviços Regionais: Ec2, lambda,Auto scaling, Beanstalk.
+
+#Serviçõs Globais: Amazon Cloud front, route63, AWF, IAM.
+
+responsabilidade in Cloud: Customer
+                 of Cloud: Aws.
+
+
+armazenamento = buckets
+arquivos = objetos
+sub-pastas = prefixos
