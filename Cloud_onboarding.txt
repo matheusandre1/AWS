@@ -1,0 +1,15 @@
+Cloud computing - Entrega sob demand de serviços de computação, armazenamento de banco de dados.
+por meio de plataforma de serviços em nuvem via internet.
+
+#Paga-se apenas pelo uso.
+#Aumento de velocidade e agilidade.
+#Economia em escala.
+#Presença Global.
+#Foco no negócio.
+
+modelo = 
+Hibrida
+ nuvem Publica
+on-premisses
+
+latencia = tempo de duração da minha requisição da origem ao destino.
